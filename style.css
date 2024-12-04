@@ -57,6 +57,25 @@ font-weight: 200;
 padding-bottom: 60px;
 }
 
+
+main p{
+    color: azure;
+    font-size: small;
+    text-decoration:none;
+    padding-top: 45px;
+    padding-left: 35px;
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a :hover {
+    color: red;
+}
+
+
+}
 footer h4{
     display:flex;
     justify-content: center;
@@ -73,6 +92,4 @@ footer p{
     color: azure;
     font-size:x-small;
     font-weight: 100;
-    
-
-}
+    }
